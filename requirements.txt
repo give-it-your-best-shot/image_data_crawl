@@ -1,0 +1,9 @@
+certifi
+chardet
+idna
+requests
+selenium
+webdriver-manager
+os
+shutil
+Pillow
